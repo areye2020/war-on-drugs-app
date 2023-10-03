@@ -1,0 +1,51 @@
+.epidemics-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .epidemic-card {
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .epidemic-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  .epidemic-card img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .epidemic-stats {
+    margin-top: 20px;
+  }
+  
+  .stat {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .stat span {
+    font-weight: bold;
+  }
+  

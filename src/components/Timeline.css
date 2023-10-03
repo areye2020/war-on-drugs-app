@@ -1,0 +1,43 @@
+.timeline-container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    overflow: auto;
+    max-height: 500px; /* Set a maximum height to enable scrolling */
+  }
+  
+  .timeline-event {
+    position: relative;
+    margin: 20px 0;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+  
+  .timeline-event:hover {
+    background-color: #ff014f;
+    border-color: #ff014f;
+  }
+  
+  .timeline-event-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .timeline-event-date {
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 5px;
+  }
+  
+  .timeline-event-description {
+    font-size: 16px;
+  }
+  
+  /* Add more CSS for event details that appear on click */
+  

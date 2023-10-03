@@ -1,0 +1,49 @@
+.home-container {
+    text-align: center;
+  }
+  
+  .splash {
+    background-image: url('../../public/splashCover.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 24px;
+    padding: 20px;
+  }
+  
+  .splash h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .splash a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .statistics {
+    background-color: #f9f9f9;
+    padding: 50px;
+  }
+  
+  .statistic {
+    text-align: center;
+  }
+  
+  .statistic h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .statistic p {
+    font-size: 20px;
+  }
+  
