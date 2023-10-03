@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/war-on-drugs-app/static/css/main.e6c13ad2.css",
+    "main.js": "/war-on-drugs-app/static/js/main.75b46c21.js",
+    "static/js/787.882176e5.chunk.js": "/war-on-drugs-app/static/js/787.882176e5.chunk.js",
+    "index.html": "/war-on-drugs-app/index.html",
+    "main.e6c13ad2.css.map": "/war-on-drugs-app/static/css/main.e6c13ad2.css.map",
+    "main.75b46c21.js.map": "/war-on-drugs-app/static/js/main.75b46c21.js.map",
+    "787.882176e5.chunk.js.map": "/war-on-drugs-app/static/js/787.882176e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75b46c21.js"
+  ]
+}
